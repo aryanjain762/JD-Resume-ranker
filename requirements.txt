@@ -1,0 +1,13 @@
+fastapi
+python-multipart
+pydantic
+httpx
+aiofiles
+PyPDF2
+python-docx
+groq
+uvicorn
+typing
+pathlib
+logging
+python-jose[cryptography]
